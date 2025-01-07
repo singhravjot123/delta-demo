@@ -1,2 +1,2 @@
 # delta-demo
-This is for Git hub tutorial
+This is for Git hub tutorial.
